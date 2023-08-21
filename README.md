@@ -2,10 +2,6 @@
 
 This project is a solution for the Canonical take home assessment.
 
-# Usage
-
-##
-
 ## Run with docker
 
 ```
