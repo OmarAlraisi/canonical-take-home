@@ -1,0 +1,8 @@
+@import 'vanilla-framework';
+@include vanilla;
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
